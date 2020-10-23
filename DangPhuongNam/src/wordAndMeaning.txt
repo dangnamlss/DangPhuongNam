@@ -1,0 +1,26 @@
+father	bố	
+sister	chị	
+grandfather	ông
+aunt	dì
+football	đá bóng
+volleyball	bóng chuyền
+skiing	trượt tuyết
+find	tìm kiếm
+save	lưu
+he	anh ấy
+i	tôi
+we	chúng tôi
+love	yêu
+girlfriend	bạn gái
+keep	giữ
+in	trong
+on	trên
+outside	bên ngoài
+assist	hỗ trợ
+work	làm việc
+workshop	xưởng
+old	cũ
+bookself	giá sách
+pen	bút bi
+pencase	hộp bút
+mouse	chuột
